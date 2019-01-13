@@ -33,5 +33,5 @@ figcaption {
 /*class selector (add to as many different elements as you like)*/
 
 .milk-text {
-  font: bold ;
+  font: bold 2.6em "Elsie Swash Caps";
 }
