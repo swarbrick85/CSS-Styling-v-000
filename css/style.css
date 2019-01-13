@@ -41,6 +41,6 @@ figcaption {
 /*id selector (add to one unique element per page)*/
 
 #logo {
-  
+  background: aqua;
 }
 }
