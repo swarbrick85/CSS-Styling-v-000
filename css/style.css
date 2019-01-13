@@ -56,7 +56,10 @@ figcaption {
 
 /*Psuedo class selectors*/
 
-
+#details a:links {
+  
+}
+}
 }
 
 
