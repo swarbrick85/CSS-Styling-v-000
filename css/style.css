@@ -44,5 +44,10 @@ figcaption {
   background: aqua;
 }
 
-/*descendent selector ()
+/*descendent selector */
+
+#logo h1 {
+  
+}
+}
 }
